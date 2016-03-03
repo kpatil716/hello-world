@@ -1,4 +1,4 @@
 # hello-world
 This is how I began using GitHub
 
-Hello evreyone out there! Kunal here.
+Hello everyone out there! Kunal here.
